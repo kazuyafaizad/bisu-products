@@ -21,3 +21,4 @@
 | Powder  | https://cart.bi-su.jp/cart/add.php?pcode=powder-tk | https://cart.bi-su.jp/cart/add.php?pcode=powder-tj |
 | Drink E-3000  | https://cart.bi-su.jp/cart/add.php?pcode=3010-tk | https://cart.bi-su.jp/cart/add.php?pcode=3010-tj |
 | Tri Deluxe  | https://cart.bi-su.jp/cart/add.php?pcode=1070_1070-r_9100-tk | https://cart.bi-su.jp/cart/add.php?pcode=1070_1070-r_9100-tj |
+| w-500  | https://cart.bi-su.jp/cart/add.php?pcode=1010-tk | https://cart.bi-su.jp/cart/add.php?pcode=1010-tj |
