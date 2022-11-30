@@ -9,3 +9,5 @@
 | Eyelash  | https://cart.bi-su.jp/cart/add.php?pcode=9201-tk-n | https://cart.bi-su.jp/cart/add.php?pcode=9201-tj-n |
 | Facecream  | https://cart.bi-su.jp/cart/add.php?pcode=facecream-tk-n | https://cart.bi-su.jp/cart/add.php?pcode=facecream-tj-n |
 | Skincare  | https://cart.bi-su.jp/cart/add.php?pcode=skincare_set-tk | https://cart.bi-su.jp/cart/add.php?pcode=skincare_set-tj |
+| Facial Soap  | https://cart.bi-su.jp/cart/add.php?pcode=1101-tk | https://cart.bi-su.jp/cart/add.php?pcode=1101-tj |
+| Jelly  | https://cart.bi-su.jp/cart/add.php?pcode=1070-tk | https://cart.bi-su.jp/cart/add.php?pcode=1070-tj |
